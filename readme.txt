@@ -5,3 +5,4 @@ this is third change file:
 this is fource change file;
 this is change  for github;
 this is change for clone2;
+this is change for delete branch;
